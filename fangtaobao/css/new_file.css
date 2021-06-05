@@ -1,0 +1,25 @@
+body{font-family:"微软雅黑";}
+#fu{
+	margin:0 auto;
+	width:800px;
+}
+#z2{
+	color:#FFFFFF;
+	font-weight:bolder;
+	font-size:18px;
+	background-color:#FF6600;
+	height:40px;
+	line-height:40px;
+}
+#z3 li{list-style:none;height:35px;}
+#z3.fwxy{height:80px;}
+#z3.txt{height:20px;width:150px;border:#157782 1px solid;background-color:#FFFFCC;}
+#z3.day{height:16px;width:30px;}
+#z3.btn{border:1px #333 solid;height:25px;background-image:url(image/title.gif);color:#FFFFFF;}
+#z4{font-size:16px;height:40px;line-height:40px;text-align:center;background-color:#FF6600;}
+#z3.txt:hover {background-color:#E0F9FC;}
+#txt{border-bottom:0px;border-right:0px;border-left:2px #000000 solid;border-top:2px #000000 solid;}
+#txt{background-color:#0FF;}
+#txt{background-color:#FFF;}
+#txt:hover{background-color:#0FF;}
+#z4{text-align:center;margin-top:50px;}
